@@ -136,13 +136,3 @@ Run the viewer script directly (adjust command if your environment uses `python3
 python gesture_3d_viewer.py
 ```
 
-If the script expects input files or arguments, supply them as described in the script's top comments or help output.
-
-**Notes**
-
-- Replace placeholders like `<owner>`, `<repository>`, and `<your-username>` with the actual values for your repo.
-- If you want, I can inspect `gesture_3d_viewer.py` and add concrete dependency and usage instructions.
-
----
-
-Created by `tubakhxn` — feel free to ask me to expand this README (installation, examples, screenshots).
